@@ -1,4 +1,5 @@
 # simple-web-based-calculator
+*Academic project for "Introduction to Web Applications" course*
 
 
 A clean, responsive web calculator built with vanilla HTML, CSS, and JavaScript that performs basic mathematical operations.
